@@ -15,13 +15,13 @@ source: https://www.kaggle.com/datasets/puspitachowdhury2/menstrual-health-datas
 ## RESULTS
 - Average pain level: 4.85/10
 - Heavy flow pain: 7.32/10 vs light flow: 3.32/10
-- 
+ 
 ## HOW TO RUN IT
 1. Open Google Colab
 2. Upload Menstrual_Health_project.ipynb and period_log.csv
 3. Run all cells
 4. Enter your symptoms in the predictor at the bottom
-5. 
+
  ## Disclaimer
  This is not a medical diagnosis. Always consult a doctor
    
