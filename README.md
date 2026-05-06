@@ -22,6 +22,6 @@ source: https://www.kaggle.com/datasets/puspitachowdhury2/menstrual-health-datas
 3. Run all cells
 4. Enter your symptoms in the predictor at the bottom
 
- ## Disclaimer
+ ## N/B
  This is not a medical diagnosis. Always consult a doctor
    
